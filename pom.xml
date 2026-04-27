@@ -4,7 +4,7 @@
          http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <!-- Model version -->
-    <modelVersion>5.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
 
     <!-- Project coordinates -->
     <groupId>com.example</groupId>
